@@ -1,0 +1,15 @@
+/home/saint/Desktop/ProgramToFindLeapYear/bin/Debug/net6.0/ProgramToFindLeapYear
+/home/saint/Desktop/ProgramToFindLeapYear/bin/Debug/net6.0/ProgramToFindLeapYear.deps.json
+/home/saint/Desktop/ProgramToFindLeapYear/bin/Debug/net6.0/ProgramToFindLeapYear.runtimeconfig.json
+/home/saint/Desktop/ProgramToFindLeapYear/bin/Debug/net6.0/ProgramToFindLeapYear.dll
+/home/saint/Desktop/ProgramToFindLeapYear/bin/Debug/net6.0/ProgramToFindLeapYear.pdb
+/home/saint/Desktop/ProgramToFindLeapYear/obj/Debug/net6.0/ProgramToFindLeapYear.csproj.AssemblyReference.cache
+/home/saint/Desktop/ProgramToFindLeapYear/obj/Debug/net6.0/ProgramToFindLeapYear.GeneratedMSBuildEditorConfig.editorconfig
+/home/saint/Desktop/ProgramToFindLeapYear/obj/Debug/net6.0/ProgramToFindLeapYear.AssemblyInfoInputs.cache
+/home/saint/Desktop/ProgramToFindLeapYear/obj/Debug/net6.0/ProgramToFindLeapYear.AssemblyInfo.cs
+/home/saint/Desktop/ProgramToFindLeapYear/obj/Debug/net6.0/ProgramToFindLeapYear.csproj.CoreCompileInputs.cache
+/home/saint/Desktop/ProgramToFindLeapYear/obj/Debug/net6.0/ProgramToFindLeapYear.dll
+/home/saint/Desktop/ProgramToFindLeapYear/obj/Debug/net6.0/refint/ProgramToFindLeapYear.dll
+/home/saint/Desktop/ProgramToFindLeapYear/obj/Debug/net6.0/ProgramToFindLeapYear.pdb
+/home/saint/Desktop/ProgramToFindLeapYear/obj/Debug/net6.0/ProgramToFindLeapYear.genruntimeconfig.cache
+/home/saint/Desktop/ProgramToFindLeapYear/obj/Debug/net6.0/ref/ProgramToFindLeapYear.dll
